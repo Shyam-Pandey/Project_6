@@ -7,7 +7,7 @@
   
 
 ## Preview
-![See Preview](./Photos/download (1).png)
+![See Preview](https://github.com/Shyam-Pandey/Project_6/blob/master/Photos/download%20(1).png)
 
 ## Live Link
 [Link](https://iridescent-tanuki-403600.netlify.app)
