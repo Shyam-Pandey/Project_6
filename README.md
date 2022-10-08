@@ -7,7 +7,7 @@
   
 
 ## Preview
-![See Preview](./download1.png)
+![See Preview](./Photos/download (1).png)
 
 ## Live Link
 [Link](https://iridescent-tanuki-403600.netlify.app)
